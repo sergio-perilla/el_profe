@@ -206,7 +206,7 @@ def main():
             ratings_records = csv_manager.append_to_csv(telegram_data['ratings'], "daily_ratings.csv", "subjective")
             caffeine_records = csv_manager.append_to_csv(telegram_data['caffeine'], "caffeine_intake.csv", "subjective") 
             alcohol_records = csv_manager.append_to_csv(telegram_data['alcohol'], "alcohol_intake.csv", "subjective")
-            supplement_records = csv_manager.append_to_csv(telegram_data['supplements'], "supplement_intake.csv", "subjective")  # Changed from thc
+            supplement_records = csv_manager.append_to_csv(telegram_data['supplements'], "supplement_intake.csv", "subjective")
             food_records = csv_manager.append_to_csv(telegram_data['food'], "food_intake.csv", "subjective")
             notes_records = csv_manager.append_to_csv(telegram_data['notes'], "daily_notes.csv", "subjective")
             
