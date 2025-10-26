@@ -1,0 +1,8 @@
+timestamp,data_type,last_sync_date,records_added,status,error_message
+2025-10-26T23:48:29.112404,activities,2025-10-26,17,success,
+2025-10-26T23:48:52.237877,health,2025-10-26,31,success,
+2025-10-26T23:49:03.555477,physiological,2025-10-26,31,success,
+2025-10-26T23:49:03.599787,eufy_body_composition,2025-10-26,0,success,
+2025-10-26T23:49:04.909968,weekly_training_zones,2025-10-26,1,success,
+2025-10-26T23:49:04.917785,recovery_trends,2025-10-26,1,success,
+2025-10-26T23:49:04.919777,telegram_data,2025-10-26,0,failed,'food'
