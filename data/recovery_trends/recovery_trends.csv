@@ -1,2 +1,3 @@
 date,hrv_7_day_avg,hrv_14_day_avg,hrv_30_day_avg,hrv_trend_direction,sleep_efficiency_7_day_avg,sleep_efficiency_14_day_avg,sleep_score_7_day_avg,sleep_score_14_day_avg,rhr_7_day_avg,rhr_14_day_avg,rhr_trend_direction,body_battery_avg_7_day,stress_avg_7_day,recovery_score,training_readiness
 2025-10-26,65.3,,,STABLE,,,79.9,,40.9,,STABLE,,24.7,75,GOOD
+2025-10-27,64.6,,,STABLE,,,79.7,,41.4,,STABLE,32.7,24.0,75,GOOD
