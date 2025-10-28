@@ -13,3 +13,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-10-27T21:20:08.822002,weekly_training_zones,2025-10-27,1,success,
 2025-10-27T21:20:08.831443,recovery_trends,2025-10-27,1,success,
 2025-10-27T21:20:08.833357,telegram_data,2025-10-27,0,failed,'food'
+2025-10-28T21:20:55.873170,activities,2025-10-28,0,success,
+2025-10-28T21:21:07.714663,health,2025-10-28,1,success,
+2025-10-28T21:21:12.711011,physiological,2025-10-28,1,success,
+2025-10-28T21:21:12.899123,eufy_body_composition,2025-10-28,0,success,
+2025-10-28T21:21:12.993879,weekly_training_zones,2025-10-28,0,success,
+2025-10-28T21:21:13.003336,recovery_trends,2025-10-28,1,success,
+2025-10-28T21:21:13.005183,telegram_data,2025-10-28,0,failed,'food'
