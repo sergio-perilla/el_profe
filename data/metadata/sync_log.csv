@@ -48,3 +48,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-11-01T21:18:18.225521,weekly_training_zones,2025-11-01,0,success,
 2025-11-01T21:18:18.235209,recovery_trends,2025-11-01,1,success,
 2025-11-01T21:18:18.237200,telegram_data,2025-11-01,0,failed,'food'
+2025-11-02T21:18:37.241225,activities,2025-11-02,0,success,
+2025-11-02T21:18:46.765413,health,2025-11-02,1,success,
+2025-11-02T21:18:51.504326,physiological,2025-11-02,1,success,
+2025-11-02T21:18:51.687797,eufy_body_composition,2025-11-02,0,success,
+2025-11-02T21:18:52.504240,weekly_training_zones,2025-11-02,0,success,
+2025-11-02T21:18:52.513946,recovery_trends,2025-11-02,1,success,
+2025-11-02T21:18:52.515963,telegram_data,2025-11-02,0,failed,'food'
