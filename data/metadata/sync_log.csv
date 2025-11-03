@@ -55,3 +55,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-11-02T21:18:52.504240,weekly_training_zones,2025-11-02,0,success,
 2025-11-02T21:18:52.513946,recovery_trends,2025-11-02,1,success,
 2025-11-02T21:18:52.515963,telegram_data,2025-11-02,0,failed,'food'
+2025-11-03T21:21:16.867124,activities,2025-11-03,1,success,
+2025-11-03T21:21:29.060033,health,2025-11-03,1,success,
+2025-11-03T21:21:34.252239,physiological,2025-11-03,1,success,
+2025-11-03T21:21:34.463889,eufy_body_composition,2025-11-03,0,success,
+2025-11-03T21:21:34.563946,weekly_training_zones,2025-11-03,1,success,
+2025-11-03T21:21:34.572770,recovery_trends,2025-11-03,1,success,
+2025-11-03T21:21:34.574554,telegram_data,2025-11-03,0,failed,'food'
