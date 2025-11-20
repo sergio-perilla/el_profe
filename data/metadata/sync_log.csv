@@ -167,3 +167,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-11-19T21:18:51.258433,weekly_training_zones,2025-11-19,0,success,
 2025-11-19T21:18:51.267974,recovery_trends,2025-11-19,1,success,
 2025-11-19T21:18:51.270145,telegram_data,2025-11-19,0,failed,'food'
+2025-11-20T21:21:29.199092,activities,2025-11-20,1,success,
+2025-11-20T21:21:39.606120,health,2025-11-20,1,success,
+2025-11-20T21:21:43.634945,physiological,2025-11-20,1,success,
+2025-11-20T21:21:43.759530,eufy_body_composition,2025-11-20,0,success,
+2025-11-20T21:21:44.346503,weekly_training_zones,2025-11-20,0,success,
+2025-11-20T21:21:44.357356,recovery_trends,2025-11-20,1,success,
+2025-11-20T21:21:44.359769,telegram_data,2025-11-20,0,failed,'food'
