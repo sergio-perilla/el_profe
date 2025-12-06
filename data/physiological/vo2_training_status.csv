@@ -68,5 +68,6 @@ date,vo2_max_running,vo2_max_cycling,fitness_age,training_status,training_load_7
 2025-12-01,"{'calendarDate': '2025-11-29', 'vo2MaxPreciseValue': 52.2, 'vo2MaxValue': 52.0, 'fitnessAge': None, 'fitnessAgeDescription': None, 'maxMetCategory': 0}",,,,,,,,761.89435,396.5066,22.349243,250.0,577.0,350.0,678.0,109.0,327.0,ANAEROBIC_SHORTAGE,0.0,0.0
 2025-12-02,"{'calendarDate': '2025-11-29', 'vo2MaxPreciseValue': 52.2, 'vo2MaxValue': 52.0, 'fitnessAge': None, 'fitnessAgeDescription': None, 'maxMetCategory': 0}",,,,,,,,761.89435,396.5066,22.349243,250.0,577.0,350.0,678.0,109.0,327.0,ANAEROBIC_SHORTAGE,0.0,0.0
 2025-12-03,"{'calendarDate': '2025-12-03', 'vo2MaxPreciseValue': 52.3, 'vo2MaxValue': 52.0, 'fitnessAge': None, 'fitnessAgeDescription': None, 'maxMetCategory': 0}",,,,,,,,761.89435,468.01086,22.349243,251.0,578.0,349.0,677.0,109.0,327.0,ANAEROBIC_SHORTAGE,0.0,0.0
-2025-12-04,,,,,,,,,,,,,,,,,,,,
-2025-12-05,,,,,,,,,,,,,,,,,,,,
+2025-12-04,"{'calendarDate': '2025-12-03', 'vo2MaxPreciseValue': 52.3, 'vo2MaxValue': 52.0, 'fitnessAge': None, 'fitnessAgeDescription': None, 'maxMetCategory': 0}",,,,,,,,657.7061,468.01086,22.349243,251.0,578.0,349.0,677.0,109.0,327.0,ANAEROBIC_SHORTAGE,0.0,0.0
+2025-12-05,"{'calendarDate': '2025-12-05', 'vo2MaxPreciseValue': 52.2, 'vo2MaxValue': 52.0, 'fitnessAge': None, 'fitnessAgeDescription': None, 'maxMetCategory': 0}",,,,,,,,743.12396,468.01086,40.753036,250.0,577.0,350.0,678.0,109.0,327.0,ANAEROBIC_SHORTAGE,0.0,0.0
+2025-12-06,"{'calendarDate': '2025-12-05', 'vo2MaxPreciseValue': 52.2, 'vo2MaxValue': 52.0, 'fitnessAge': None, 'fitnessAgeDescription': None, 'maxMetCategory': 0}",,,,,,,,616.7662,468.01086,18.403793,250.0,577.0,350.0,678.0,109.0,327.0,ANAEROBIC_SHORTAGE,0.0,0.0
