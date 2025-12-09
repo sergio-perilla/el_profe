@@ -300,3 +300,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-12-08T21:20:22.462197,weekly_training_zones,2025-12-08,1,success,
 2025-12-08T21:20:22.472761,recovery_trends,2025-12-08,1,success,
 2025-12-08T21:20:22.475382,telegram_data,2025-12-08,0,failed,'food'
+2025-12-09T21:21:44.806485,activities,2025-12-09,1,success,
+2025-12-09T21:21:53.840827,health,2025-12-09,1,success,
+2025-12-09T21:21:57.087195,physiological,2025-12-09,1,success,
+2025-12-09T21:21:57.215109,eufy_body_composition,2025-12-09,0,success,
+2025-12-09T21:21:57.469994,weekly_training_zones,2025-12-09,0,success,
+2025-12-09T21:21:57.480298,recovery_trends,2025-12-09,1,success,
+2025-12-09T21:21:57.482727,telegram_data,2025-12-09,0,failed,'food'
