@@ -335,3 +335,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-12-13T21:20:36.411837,weekly_training_zones,2025-12-13,0,success,
 2025-12-13T21:20:36.422704,recovery_trends,2025-12-13,1,success,
 2025-12-13T21:20:36.425398,telegram_data,2025-12-13,0,failed,'food'
+2025-12-14T21:21:19.646893,activities,2025-12-14,0,success,
+2025-12-14T21:21:31.126560,health,2025-12-14,1,success,
+2025-12-14T21:21:35.782302,physiological,2025-12-14,1,success,
+2025-12-14T21:21:35.874337,eufy_body_composition,2025-12-14,0,success,
+2025-12-14T21:21:37.118037,weekly_training_zones,2025-12-14,0,success,
+2025-12-14T21:21:37.128804,recovery_trends,2025-12-14,1,success,
+2025-12-14T21:21:37.131442,telegram_data,2025-12-14,0,failed,'food'
