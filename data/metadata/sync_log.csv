@@ -433,3 +433,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2025-12-27T21:21:18.548240,weekly_training_zones,2025-12-27,0,success,
 2025-12-27T21:21:18.559294,recovery_trends,2025-12-27,1,success,
 2025-12-27T21:21:18.562083,telegram_data,2025-12-27,0,failed,'food'
+2025-12-28T21:22:19.573589,activities,2025-12-28,0,success,
+2025-12-28T21:22:26.379926,health,2025-12-28,1,success,
+2025-12-28T21:22:29.230492,physiological,2025-12-28,1,success,
+2025-12-28T21:22:29.373618,eufy_body_composition,2025-12-28,0,success,
+2025-12-28T21:22:29.671877,weekly_training_zones,2025-12-28,0,success,
+2025-12-28T21:22:29.683080,recovery_trends,2025-12-28,1,success,
+2025-12-28T21:22:29.685991,telegram_data,2025-12-28,0,failed,'food'
