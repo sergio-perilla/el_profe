@@ -503,3 +503,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-01-06T21:25:29.279589,weekly_training_zones,2026-01-06,0,success,
 2026-01-06T21:25:29.290951,recovery_trends,2026-01-06,1,success,
 2026-01-06T21:25:29.294064,telegram_data,2026-01-06,0,failed,'food'
+2026-01-07T21:25:17.761763,activities,2026-01-07,1,success,
+2026-01-07T21:25:27.176737,health,2026-01-07,1,success,
+2026-01-07T21:25:31.162436,physiological,2026-01-07,1,success,
+2026-01-07T21:25:31.338302,eufy_body_composition,2026-01-07,0,success,
+2026-01-07T21:25:31.912952,weekly_training_zones,2026-01-07,0,success,
+2026-01-07T21:25:31.924386,recovery_trends,2026-01-07,1,success,
+2026-01-07T21:25:31.927412,telegram_data,2026-01-07,0,failed,'food'
