@@ -510,3 +510,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-01-07T21:25:31.912952,weekly_training_zones,2026-01-07,0,success,
 2026-01-07T21:25:31.924386,recovery_trends,2026-01-07,1,success,
 2026-01-07T21:25:31.927412,telegram_data,2026-01-07,0,failed,'food'
+2026-01-08T21:26:20.822600,activities,2026-01-08,0,success,
+2026-01-08T21:26:31.023032,health,2026-01-08,1,success,
+2026-01-08T21:26:35.177789,physiological,2026-01-08,1,success,
+2026-01-08T21:26:35.281933,eufy_body_composition,2026-01-08,0,success,
+2026-01-08T21:26:36.059878,weekly_training_zones,2026-01-08,0,success,
+2026-01-08T21:26:36.071391,recovery_trends,2026-01-08,1,success,
+2026-01-08T21:26:36.074528,telegram_data,2026-01-08,0,failed,'food'
