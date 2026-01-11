@@ -75,3 +75,4 @@ date,hrv_7_day_avg,hrv_14_day_avg,hrv_30_day_avg,hrv_trend_direction,sleep_effic
 2026-01-08,80.7,,,STABLE,,,84.1,77.9,41.6,41.7,STABLE,43.0,21.6,75,GOOD
 2026-01-09,81.7,,,STABLE,,,86.1,78.7,41.9,41.8,STABLE,41.1,21.4,75,GOOD
 2026-01-10,,,,STABLE,,,,,,,STABLE,,,45,LOW
+2026-01-11,77.4,,,STABLE,,,84.1,77.5,43.1,42.4,DECLINING,,22.3,65,MODERATE
