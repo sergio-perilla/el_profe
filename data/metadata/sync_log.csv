@@ -573,3 +573,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-01-16T21:26:21.799200,weekly_training_zones,2026-01-16,0,success,
 2026-01-16T21:26:21.810788,recovery_trends,2026-01-16,1,success,
 2026-01-16T21:26:21.814065,telegram_data,2026-01-16,0,failed,'food'
+2026-01-17T21:21:41.012234,activities,2026-01-17,1,success,
+2026-01-17T21:21:51.695421,health,2026-01-17,1,success,
+2026-01-17T21:21:55.685847,physiological,2026-01-17,1,success,
+2026-01-17T21:21:55.749767,eufy_body_composition,2026-01-17,0,success,
+2026-01-17T21:21:56.703943,weekly_training_zones,2026-01-17,0,success,
+2026-01-17T21:21:56.715649,recovery_trends,2026-01-17,1,success,
+2026-01-17T21:21:56.718856,telegram_data,2026-01-17,0,failed,'food'
