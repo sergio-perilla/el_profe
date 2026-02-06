@@ -10,6 +10,23 @@ class CSVManager:
     def __init__(self, data_dir="data"):
         self.data_dir = Path(data_dir)
         self.ensure_directories()
+
+    def _sanitize_value(self, val):
+        """Sanitize a value to handle unexpected types from API responses (lists, dicts)"""
+        if isinstance(val, (list, tuple)):
+            if len(val) == 0:
+                return None
+            # Filter out None and empty strings
+            non_empty = [v for v in val if v is not None and v != '']
+            if not non_empty:
+                return None
+            if len(non_empty) == 1:
+                return self._sanitize_value(non_empty[0])
+            return ','.join(str(v) for v in non_empty)
+        if isinstance(val, dict):
+            import json
+            return json.dumps(val)
+        return val
     
 
     def ensure_directories(self):
@@ -35,10 +52,24 @@ class CSVManager:
         else:
             filepath = self.data_dir / filename
         
-        df_new = pd.DataFrame(data)
-        
+        # Sanitize data to handle unexpected API response types (lists, dicts, etc.)
+        sanitized_data = [
+            {k: self._sanitize_value(v) for k, v in record.items()}
+            for record in data
+        ]
+        df_new = pd.DataFrame(sanitized_data)
+
+        # Convert StringDtype columns to object to prevent type conflicts during merge
+        for col in df_new.columns:
+            if hasattr(df_new[col].dtype, 'name') and df_new[col].dtype.name == 'string':
+                df_new[col] = df_new[col].astype(object)
+
         if filepath.exists():
             df_existing = pd.read_csv(filepath)
+            # Convert StringDtype columns to object to prevent type conflicts during merge
+            for col in df_existing.columns:
+                if hasattr(df_existing[col].dtype, 'name') and df_existing[col].dtype.name == 'string':
+                    df_existing[col] = df_existing[col].astype(object)
             existing_count = len(df_existing)
             
             # Determine key columns for merging/updating

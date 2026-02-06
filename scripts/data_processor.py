@@ -765,7 +765,13 @@ class GarminDataProcessor:
             if isinstance(recovery, dict):
                 if not processed['recovery_advisor']:  # Only if not set by training readiness
                     processed['recovery_advisor'] = recovery.get('recoveryTimeInHours')
-        
+
+        # Ensure consistent string types for fields that can receive mixed types from the API
+        for field in ['training_status', 'training_load_focus', 'recovery_advisor',
+                      'performance_condition', 'training_balance_feedback']:
+            if processed.get(field) is not None and not isinstance(processed[field], str):
+                processed[field] = str(processed[field])
+
         return processed
     
     def process_weekly_training_zones(self, weekly_data):
