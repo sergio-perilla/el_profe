@@ -601,3 +601,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-01-20T21:26:14.289158,weekly_training_zones,2026-01-20,0,success,
 2026-01-20T21:26:14.300351,recovery_trends,2026-01-20,1,success,
 2026-01-20T21:26:14.303514,telegram_data,2026-01-20,0,failed,'food'
+2026-02-06T21:35:37.525059,activities,2026-02-06,5,success,
+2026-02-06T21:36:12.524135,health,2026-02-06,17,success,
+2026-02-06T21:36:23.548722,physiological,2026-02-06,17,success,
+2026-02-06T21:36:23.586975,eufy_body_composition,2026-02-06,0,success,
+2026-02-06T21:36:24.196237,weekly_training_zones,2026-02-06,1,success,
+2026-02-06T21:36:24.208451,recovery_trends,2026-02-06,1,success,
+2026-02-06T21:36:24.211711,telegram_data,2026-02-06,0,failed,'food'
