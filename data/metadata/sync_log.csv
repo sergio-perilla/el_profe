@@ -608,3 +608,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-06T21:36:24.196237,weekly_training_zones,2026-02-06,1,success,
 2026-02-06T21:36:24.208451,recovery_trends,2026-02-06,1,success,
 2026-02-06T21:36:24.211711,telegram_data,2026-02-06,0,failed,'food'
+2026-02-07T21:31:29.421902,activities,2026-02-07,1,success,
+2026-02-07T21:31:40.412173,health,2026-02-07,1,success,
+2026-02-07T21:31:44.817854,physiological,2026-02-07,1,success,
+2026-02-07T21:31:44.881148,eufy_body_composition,2026-02-07,0,success,
+2026-02-07T21:31:45.834297,weekly_training_zones,2026-02-07,0,success,
+2026-02-07T21:31:45.846888,recovery_trends,2026-02-07,1,success,
+2026-02-07T21:31:45.850337,telegram_data,2026-02-07,0,failed,'food'
