@@ -643,3 +643,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-11T21:37:17.753471,weekly_training_zones,2026-02-11,0,success,
 2026-02-11T21:37:17.766191,recovery_trends,2026-02-11,1,success,
 2026-02-11T21:37:17.769710,telegram_data,2026-02-11,0,failed,'food'
+2026-02-12T21:38:11.984800,activities,2026-02-12,0,success,
+2026-02-12T21:38:22.119205,health,2026-02-12,1,success,
+2026-02-12T21:38:26.201708,physiological,2026-02-12,1,success,
+2026-02-12T21:38:26.327672,eufy_body_composition,2026-02-12,0,success,
+2026-02-12T21:38:26.768204,weekly_training_zones,2026-02-12,0,success,
+2026-02-12T21:38:26.781412,recovery_trends,2026-02-12,1,success,
+2026-02-12T21:38:26.784979,telegram_data,2026-02-12,0,failed,'food'
