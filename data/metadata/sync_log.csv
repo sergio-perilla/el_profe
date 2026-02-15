@@ -664,3 +664,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-14T21:29:23.100574,weekly_training_zones,2026-02-14,0,success,
 2026-02-14T21:29:23.113945,recovery_trends,2026-02-14,1,success,
 2026-02-14T21:29:23.117619,telegram_data,2026-02-14,0,failed,'food'
+2026-02-15T21:29:27.957583,activities,2026-02-15,1,success,
+2026-02-15T21:29:36.553356,health,2026-02-15,1,success,
+2026-02-15T21:29:39.743154,physiological,2026-02-15,1,success,
+2026-02-15T21:29:39.876907,eufy_body_composition,2026-02-15,0,success,
+2026-02-15T21:29:40.535442,weekly_training_zones,2026-02-15,0,success,
+2026-02-15T21:29:40.548914,recovery_trends,2026-02-15,1,success,
+2026-02-15T21:29:40.552156,telegram_data,2026-02-15,0,failed,'food'
