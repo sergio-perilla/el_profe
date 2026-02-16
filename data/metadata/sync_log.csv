@@ -671,3 +671,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-15T21:29:40.535442,weekly_training_zones,2026-02-15,0,success,
 2026-02-15T21:29:40.548914,recovery_trends,2026-02-15,1,success,
 2026-02-15T21:29:40.552156,telegram_data,2026-02-15,0,failed,'food'
+2026-02-16T21:33:41.765832,activities,2026-02-16,0,success,
+2026-02-16T21:33:50.910775,health,2026-02-16,1,success,
+2026-02-16T21:33:54.287408,physiological,2026-02-16,1,success,
+2026-02-16T21:33:54.448515,eufy_body_composition,2026-02-16,0,success,
+2026-02-16T21:33:54.512473,weekly_training_zones,2026-02-16,1,success,
+2026-02-16T21:33:54.526632,recovery_trends,2026-02-16,1,success,
+2026-02-16T21:33:54.530559,telegram_data,2026-02-16,0,failed,'food'
