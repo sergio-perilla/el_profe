@@ -692,3 +692,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-18T21:39:06.548671,weekly_training_zones,2026-02-18,0,success,
 2026-02-18T21:39:06.562772,recovery_trends,2026-02-18,1,success,
 2026-02-18T21:39:06.566525,telegram_data,2026-02-18,0,failed,'food'
+2026-02-19T21:37:36.404873,activities,2026-02-19,0,success,
+2026-02-19T21:37:46.643099,health,2026-02-19,1,success,
+2026-02-19T21:37:50.858214,physiological,2026-02-19,1,success,
+2026-02-19T21:37:51.031454,eufy_body_composition,2026-02-19,0,success,
+2026-02-19T21:37:51.292315,weekly_training_zones,2026-02-19,0,success,
+2026-02-19T21:37:51.305859,recovery_trends,2026-02-19,1,success,
+2026-02-19T21:37:51.309555,telegram_data,2026-02-19,0,failed,'food'
