@@ -713,3 +713,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-21T21:28:20.237515,weekly_training_zones,2026-02-21,0,success,
 2026-02-21T21:28:20.251076,recovery_trends,2026-02-21,1,success,
 2026-02-21T21:28:20.254853,telegram_data,2026-02-21,0,failed,'food'
+2026-02-22T21:29:04.857020,activities,2026-02-22,0,success,
+2026-02-22T21:29:16.228791,health,2026-02-22,1,success,
+2026-02-22T21:29:21.599965,physiological,2026-02-22,1,success,
+2026-02-22T21:29:21.701985,eufy_body_composition,2026-02-22,0,success,
+2026-02-22T21:29:22.440857,weekly_training_zones,2026-02-22,0,success,
+2026-02-22T21:29:22.454676,recovery_trends,2026-02-22,1,success,
+2026-02-22T21:29:22.458392,telegram_data,2026-02-22,0,failed,'food'
