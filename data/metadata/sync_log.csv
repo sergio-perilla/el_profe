@@ -755,3 +755,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-02-27T21:33:42.696948,weekly_training_zones,2026-02-27,0,success,
 2026-02-27T21:33:42.710152,recovery_trends,2026-02-27,1,success,
 2026-02-27T21:33:42.713898,telegram_data,2026-02-27,0,failed,'food'
+2026-02-28T21:25:44.694427,activities,2026-02-28,1,success,
+2026-02-28T21:25:55.267759,health,2026-02-28,1,success,
+2026-02-28T21:25:59.117769,physiological,2026-02-28,1,success,
+2026-02-28T21:25:59.164204,eufy_body_composition,2026-02-28,0,success,
+2026-02-28T21:25:59.988756,weekly_training_zones,2026-02-28,0,success,
+2026-02-28T21:26:00.002598,recovery_trends,2026-02-28,1,success,
+2026-02-28T21:26:00.006516,telegram_data,2026-02-28,0,failed,'food'
