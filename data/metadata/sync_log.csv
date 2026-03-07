@@ -804,3 +804,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-03-06T21:34:03.592849,weekly_training_zones,2026-03-06,0,success,
 2026-03-06T21:34:03.607487,recovery_trends,2026-03-06,1,success,
 2026-03-06T21:34:03.611630,telegram_data,2026-03-06,0,failed,'food'
+2026-03-07T21:26:03.125630,activities,2026-03-07,0,success,
+2026-03-07T21:26:10.885985,health,2026-03-07,1,success,
+2026-03-07T21:26:13.625772,physiological,2026-03-07,1,success,
+2026-03-07T21:26:13.726924,eufy_body_composition,2026-03-07,0,success,
+2026-03-07T21:26:14.237461,weekly_training_zones,2026-03-07,0,success,
+2026-03-07T21:26:14.251497,recovery_trends,2026-03-07,1,success,
+2026-03-07T21:26:14.255489,telegram_data,2026-03-07,0,failed,'food'
