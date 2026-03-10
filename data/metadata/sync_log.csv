@@ -825,3 +825,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-03-09T21:37:03.299048,weekly_training_zones,2026-03-09,1,success,
 2026-03-09T21:37:03.312972,recovery_trends,2026-03-09,1,success,
 2026-03-09T21:37:03.317103,telegram_data,2026-03-09,0,failed,'food'
+2026-03-10T21:33:16.936380,activities,2026-03-10,0,success,
+2026-03-10T21:33:25.656979,health,2026-03-10,1,success,
+2026-03-10T21:33:28.702409,physiological,2026-03-10,1,success,
+2026-03-10T21:33:28.807116,eufy_body_composition,2026-03-10,0,success,
+2026-03-10T21:33:28.878190,weekly_training_zones,2026-03-10,0,success,
+2026-03-10T21:33:28.892413,recovery_trends,2026-03-10,1,success,
+2026-03-10T21:33:28.896596,telegram_data,2026-03-10,0,failed,'food'
