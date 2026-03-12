@@ -839,3 +839,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-03-11T21:38:22.513422,weekly_training_zones,2026-03-11,0,success,
 2026-03-11T21:38:22.527222,recovery_trends,2026-03-11,1,success,
 2026-03-11T21:38:22.531253,telegram_data,2026-03-11,0,failed,'food'
+2026-03-12T21:37:09.849100,activities,2026-03-12,0,success,
+2026-03-12T21:37:21.784269,health,2026-03-12,1,success,
+2026-03-12T21:37:25.784232,physiological,2026-03-12,1,success,
+2026-03-12T21:37:25.850442,eufy_body_composition,2026-03-12,0,success,
+2026-03-12T21:37:26.172618,weekly_training_zones,2026-03-12,0,success,
+2026-03-12T21:37:26.186963,recovery_trends,2026-03-12,1,success,
+2026-03-12T21:37:26.191363,telegram_data,2026-03-12,0,failed,'food'
