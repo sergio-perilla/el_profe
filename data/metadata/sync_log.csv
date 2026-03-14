@@ -853,3 +853,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-03-13T21:37:47.581248,weekly_training_zones,2026-03-13,0,success,
 2026-03-13T21:37:47.594958,recovery_trends,2026-03-13,1,success,
 2026-03-13T21:37:47.599306,telegram_data,2026-03-13,0,failed,'food'
+2026-03-14T21:30:58.177353,activities,2026-03-14,1,success,
+2026-03-14T21:31:26.384870,health,2026-03-14,1,success,
+2026-03-14T21:31:29.011851,physiological,2026-03-14,1,success,
+2026-03-14T21:31:29.074496,eufy_body_composition,2026-03-14,0,success,
+2026-03-14T21:31:29.579685,weekly_training_zones,2026-03-14,0,success,
+2026-03-14T21:31:29.594082,recovery_trends,2026-03-14,1,success,
+2026-03-14T21:31:29.598314,telegram_data,2026-03-14,0,failed,'food'
