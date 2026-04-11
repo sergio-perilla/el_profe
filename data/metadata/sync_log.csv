@@ -881,3 +881,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-03T21:39:22.974082,weekly_training_zones,2026-04-03,1,success,
 2026-04-03T21:39:22.988277,recovery_trends,2026-04-03,1,success,
 2026-04-03T21:39:22.992539,telegram_data,2026-04-03,0,failed,'food'
+2026-04-11T21:37:47.592701,activities,2026-04-11,3,success,
+2026-04-11T21:38:15.087150,health,2026-04-11,8,success,
+2026-04-11T21:38:25.908355,physiological,2026-04-11,8,success,
+2026-04-11T21:38:25.967712,eufy_body_composition,2026-04-11,0,success,
+2026-04-11T21:38:27.506855,weekly_training_zones,2026-04-11,1,success,
+2026-04-11T21:38:27.521516,recovery_trends,2026-04-11,1,success,
+2026-04-11T21:38:27.525807,telegram_data,2026-04-11,0,failed,'food'
