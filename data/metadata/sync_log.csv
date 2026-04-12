@@ -888,3 +888,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-11T21:38:27.506855,weekly_training_zones,2026-04-11,1,success,
 2026-04-11T21:38:27.521516,recovery_trends,2026-04-11,1,success,
 2026-04-11T21:38:27.525807,telegram_data,2026-04-11,0,failed,'food'
+2026-04-12T21:39:09.293310,activities,2026-04-12,1,success,
+2026-04-12T21:39:20.260655,health,2026-04-12,1,success,
+2026-04-12T21:39:24.622245,physiological,2026-04-12,1,success,
+2026-04-12T21:39:24.778838,eufy_body_composition,2026-04-12,0,success,
+2026-04-12T21:39:26.309898,weekly_training_zones,2026-04-12,0,success,
+2026-04-12T21:39:26.324491,recovery_trends,2026-04-12,1,success,
+2026-04-12T21:39:26.328889,telegram_data,2026-04-12,0,failed,'food'
