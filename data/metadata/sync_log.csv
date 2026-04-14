@@ -902,3 +902,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-13T21:54:22.209464,weekly_training_zones,2026-04-13,1,success,
 2026-04-13T21:54:22.223506,recovery_trends,2026-04-13,1,success,
 2026-04-13T21:54:22.227766,telegram_data,2026-04-13,0,failed,'food'
+2026-04-14T21:54:49.862073,activities,2026-04-14,0,success,
+2026-04-14T21:55:05.922802,health,2026-04-14,1,success,
+2026-04-14T21:55:12.472887,physiological,2026-04-14,1,success,
+2026-04-14T21:55:12.538209,eufy_body_composition,2026-04-14,0,success,
+2026-04-14T21:55:12.690465,weekly_training_zones,2026-04-14,0,success,
+2026-04-14T21:55:12.722583,recovery_trends,2026-04-14,1,success,
+2026-04-14T21:55:12.727540,telegram_data,2026-04-14,0,failed,'food'
