@@ -916,3 +916,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-15T21:56:57.320456,weekly_training_zones,2026-04-15,0,success,
 2026-04-15T21:56:57.350368,recovery_trends,2026-04-15,1,success,
 2026-04-15T21:56:57.354746,telegram_data,2026-04-15,0,failed,'food'
+2026-04-16T21:49:28.983501,activities,2026-04-16,1,success,
+2026-04-16T21:49:42.916267,health,2026-04-16,1,success,
+2026-04-16T21:49:49.687621,physiological,2026-04-16,1,success,
+2026-04-16T21:49:49.810129,eufy_body_composition,2026-04-16,0,success,
+2026-04-16T21:49:50.691885,weekly_training_zones,2026-04-16,0,success,
+2026-04-16T21:49:50.723575,recovery_trends,2026-04-16,1,success,
+2026-04-16T21:49:50.728252,telegram_data,2026-04-16,0,failed,'food'
