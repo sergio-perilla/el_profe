@@ -923,3 +923,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-16T21:49:50.691885,weekly_training_zones,2026-04-16,0,success,
 2026-04-16T21:49:50.723575,recovery_trends,2026-04-16,1,success,
 2026-04-16T21:49:50.728252,telegram_data,2026-04-16,0,failed,'food'
+2026-04-17T21:49:31.429795,activities,2026-04-17,1,success,
+2026-04-17T21:49:45.182541,health,2026-04-17,1,success,
+2026-04-17T21:49:51.917356,physiological,2026-04-17,1,success,
+2026-04-17T21:49:52.042172,eufy_body_composition,2026-04-17,0,success,
+2026-04-17T21:49:53.236108,weekly_training_zones,2026-04-17,0,success,
+2026-04-17T21:49:53.252059,recovery_trends,2026-04-17,1,success,
+2026-04-17T21:49:53.257318,telegram_data,2026-04-17,0,failed,'food'
