@@ -930,3 +930,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-17T21:49:53.236108,weekly_training_zones,2026-04-17,0,success,
 2026-04-17T21:49:53.252059,recovery_trends,2026-04-17,1,success,
 2026-04-17T21:49:53.257318,telegram_data,2026-04-17,0,failed,'food'
+2026-04-18T21:40:04.539990,activities,2026-04-18,0,success,
+2026-04-18T21:40:18.566411,health,2026-04-18,1,success,
+2026-04-18T21:40:25.469508,physiological,2026-04-18,1,success,
+2026-04-18T21:40:25.656705,eufy_body_composition,2026-04-18,0,success,
+2026-04-18T21:40:26.843946,weekly_training_zones,2026-04-18,0,success,
+2026-04-18T21:40:26.859394,recovery_trends,2026-04-18,1,success,
+2026-04-18T21:40:26.864180,telegram_data,2026-04-18,0,failed,'food'
