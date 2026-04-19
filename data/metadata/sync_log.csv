@@ -937,3 +937,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-18T21:40:26.843946,weekly_training_zones,2026-04-18,0,success,
 2026-04-18T21:40:26.859394,recovery_trends,2026-04-18,1,success,
 2026-04-18T21:40:26.864180,telegram_data,2026-04-18,0,failed,'food'
+2026-04-19T21:40:22.094362,activities,2026-04-19,1,success,
+2026-04-19T21:40:35.845587,health,2026-04-19,1,success,
+2026-04-19T21:40:42.125705,physiological,2026-04-19,1,success,
+2026-04-19T21:40:42.242484,eufy_body_composition,2026-04-19,0,success,
+2026-04-19T21:40:43.673162,weekly_training_zones,2026-04-19,0,success,
+2026-04-19T21:40:43.687877,recovery_trends,2026-04-19,1,success,
+2026-04-19T21:40:43.692549,telegram_data,2026-04-19,0,failed,'food'
