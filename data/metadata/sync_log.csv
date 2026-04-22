@@ -958,3 +958,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-21T21:50:23.751625,weekly_training_zones,2026-04-21,0,success,
 2026-04-21T21:50:23.765305,recovery_trends,2026-04-21,1,success,
 2026-04-21T21:50:23.770005,telegram_data,2026-04-21,0,failed,'food'
+2026-04-22T21:53:29.793393,activities,2026-04-22,0,success,
+2026-04-22T21:53:43.527872,health,2026-04-22,1,success,
+2026-04-22T21:53:50.013050,physiological,2026-04-22,1,success,
+2026-04-22T21:53:50.077593,eufy_body_composition,2026-04-22,0,success,
+2026-04-22T21:53:50.916974,weekly_training_zones,2026-04-22,0,success,
+2026-04-22T21:53:50.931516,recovery_trends,2026-04-22,1,success,
+2026-04-22T21:53:50.935976,telegram_data,2026-04-22,0,failed,'food'
