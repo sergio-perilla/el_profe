@@ -965,3 +965,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-22T21:53:50.916974,weekly_training_zones,2026-04-22,0,success,
 2026-04-22T21:53:50.931516,recovery_trends,2026-04-22,1,success,
 2026-04-22T21:53:50.935976,telegram_data,2026-04-22,0,failed,'food'
+2026-04-23T21:52:15.565270,activities,2026-04-23,0,success,
+2026-04-23T21:52:28.728695,health,2026-04-23,1,success,
+2026-04-23T21:52:34.938018,physiological,2026-04-23,1,success,
+2026-04-23T21:52:34.999643,eufy_body_composition,2026-04-23,0,success,
+2026-04-23T21:52:35.674681,weekly_training_zones,2026-04-23,0,success,
+2026-04-23T21:52:35.689416,recovery_trends,2026-04-23,1,success,
+2026-04-23T21:52:35.693904,telegram_data,2026-04-23,0,failed,'food'
