@@ -972,3 +972,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-23T21:52:35.674681,weekly_training_zones,2026-04-23,0,success,
 2026-04-23T21:52:35.689416,recovery_trends,2026-04-23,1,success,
 2026-04-23T21:52:35.693904,telegram_data,2026-04-23,0,failed,'food'
+2026-04-24T21:52:28.916692,activities,2026-04-24,1,success,
+2026-04-24T21:52:42.373027,health,2026-04-24,1,success,
+2026-04-24T21:52:48.842376,physiological,2026-04-24,1,success,
+2026-04-24T21:52:48.898441,eufy_body_composition,2026-04-24,0,success,
+2026-04-24T21:52:49.769950,weekly_training_zones,2026-04-24,0,success,
+2026-04-24T21:52:49.784892,recovery_trends,2026-04-24,1,success,
+2026-04-24T21:52:49.789465,telegram_data,2026-04-24,0,failed,'food'
