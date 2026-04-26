@@ -986,3 +986,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-25T21:40:30.339377,weekly_training_zones,2026-04-25,0,success,
 2026-04-25T21:40:30.350326,recovery_trends,2026-04-25,1,success,
 2026-04-25T21:40:30.353949,telegram_data,2026-04-25,0,failed,'food'
+2026-04-26T21:42:24.683984,activities,2026-04-26,1,success,
+2026-04-26T21:42:37.669076,health,2026-04-26,1,success,
+2026-04-26T21:42:43.782550,physiological,2026-04-26,1,success,
+2026-04-26T21:42:43.839847,eufy_body_composition,2026-04-26,0,success,
+2026-04-26T21:42:45.361984,weekly_training_zones,2026-04-26,0,success,
+2026-04-26T21:42:45.377286,recovery_trends,2026-04-26,1,success,
+2026-04-26T21:42:45.384031,telegram_data,2026-04-26,0,failed,'food'
