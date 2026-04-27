@@ -993,3 +993,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-26T21:42:45.361984,weekly_training_zones,2026-04-26,0,success,
 2026-04-26T21:42:45.377286,recovery_trends,2026-04-26,1,success,
 2026-04-26T21:42:45.384031,telegram_data,2026-04-26,0,failed,'food'
+2026-04-27T21:56:38.805849,activities,2026-04-27,0,success,
+2026-04-27T21:56:53.432925,health,2026-04-27,1,success,
+2026-04-27T21:57:00.615179,physiological,2026-04-27,1,success,
+2026-04-27T21:57:00.717027,eufy_body_composition,2026-04-27,0,success,
+2026-04-27T21:57:00.839243,weekly_training_zones,2026-04-27,1,success,
+2026-04-27T21:57:00.853041,recovery_trends,2026-04-27,1,success,
+2026-04-27T21:57:00.857640,telegram_data,2026-04-27,0,failed,'food'
