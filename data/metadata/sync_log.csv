@@ -1014,3 +1014,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-04-29T22:03:05.376975,weekly_training_zones,2026-04-29,0,success,
 2026-04-29T22:03:05.391556,recovery_trends,2026-04-29,1,success,
 2026-04-29T22:03:05.396282,telegram_data,2026-04-29,0,failed,'food'
+2026-04-30T21:59:36.400215,activities,2026-04-30,1,success,
+2026-04-30T21:59:47.006532,health,2026-04-30,1,success,
+2026-04-30T21:59:51.701907,physiological,2026-04-30,1,success,
+2026-04-30T21:59:51.859024,eufy_body_composition,2026-04-30,0,success,
+2026-04-30T21:59:52.207816,weekly_training_zones,2026-04-30,0,success,
+2026-04-30T21:59:52.221786,recovery_trends,2026-04-30,1,success,
+2026-04-30T21:59:52.226244,telegram_data,2026-04-30,0,failed,'food'
