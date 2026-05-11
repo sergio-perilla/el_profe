@@ -1091,3 +1091,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-05-10T21:52:50.480976,weekly_training_zones,2026-05-10,0,success,
 2026-05-10T21:52:50.496461,recovery_trends,2026-05-10,1,success,
 2026-05-10T21:52:50.501452,telegram_data,2026-05-10,0,failed,'food'
+2026-05-11T22:09:49.205238,activities,2026-05-11,0,success,
+2026-05-11T22:10:02.926870,health,2026-05-11,1,success,
+2026-05-11T22:10:09.802416,physiological,2026-05-11,1,success,
+2026-05-11T22:10:09.904253,eufy_body_composition,2026-05-11,0,success,
+2026-05-11T22:10:10.005288,weekly_training_zones,2026-05-11,1,success,
+2026-05-11T22:10:10.023748,recovery_trends,2026-05-11,1,success,
+2026-05-11T22:10:10.028701,telegram_data,2026-05-11,0,failed,'food'
