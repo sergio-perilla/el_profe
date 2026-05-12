@@ -1098,3 +1098,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-05-11T22:10:10.005288,weekly_training_zones,2026-05-11,1,success,
 2026-05-11T22:10:10.023748,recovery_trends,2026-05-11,1,success,
 2026-05-11T22:10:10.028701,telegram_data,2026-05-11,0,failed,'food'
+2026-05-12T22:14:46.006222,activities,2026-05-12,1,success,
+2026-05-12T22:14:57.585815,health,2026-05-12,1,success,
+2026-05-12T22:15:04.359079,physiological,2026-05-12,1,success,
+2026-05-12T22:15:04.512638,eufy_body_composition,2026-05-12,0,success,
+2026-05-12T22:15:04.824556,weekly_training_zones,2026-05-12,0,success,
+2026-05-12T22:15:04.839541,recovery_trends,2026-05-12,1,success,
+2026-05-12T22:15:04.844385,telegram_data,2026-05-12,0,failed,'food'
