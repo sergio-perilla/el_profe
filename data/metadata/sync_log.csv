@@ -1196,3 +1196,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-05-25T22:10:54.540738,weekly_training_zones,2026-05-25,1,success,
 2026-05-25T22:10:54.556120,recovery_trends,2026-05-25,1,success,
 2026-05-25T22:10:54.561038,telegram_data,2026-05-25,0,failed,'food'
+2026-05-26T22:22:44.495481,activities,2026-05-26,1,success,
+2026-05-26T22:22:57.269396,health,2026-05-26,1,success,
+2026-05-26T22:23:03.059610,physiological,2026-05-26,1,success,
+2026-05-26T22:23:03.249475,eufy_body_composition,2026-05-26,0,success,
+2026-05-26T22:23:03.700207,weekly_training_zones,2026-05-26,0,success,
+2026-05-26T22:23:03.714786,recovery_trends,2026-05-26,1,success,
+2026-05-26T22:23:03.719588,telegram_data,2026-05-26,0,failed,'food'
