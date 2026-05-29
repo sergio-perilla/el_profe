@@ -1217,3 +1217,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-05-28T22:42:26.350392,weekly_training_zones,2026-05-28,0,success,
 2026-05-28T22:42:26.366766,recovery_trends,2026-05-28,1,success,
 2026-05-28T22:42:26.372076,telegram_data,2026-05-28,0,failed,'food'
+2026-05-29T22:38:49.838782,activities,2026-05-29,0,success,
+2026-05-29T22:39:04.980208,health,2026-05-29,1,success,
+2026-05-29T22:39:11.263684,physiological,2026-05-29,1,success,
+2026-05-29T22:39:11.531058,eufy_body_composition,2026-05-29,0,success,
+2026-05-29T22:39:12.763419,weekly_training_zones,2026-05-29,0,success,
+2026-05-29T22:39:12.778204,recovery_trends,2026-05-29,1,success,
+2026-05-29T22:39:12.783112,telegram_data,2026-05-29,0,failed,'food'
