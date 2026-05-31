@@ -1231,3 +1231,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-05-30T22:03:50.603327,weekly_training_zones,2026-05-30,0,success,
 2026-05-30T22:03:50.618090,recovery_trends,2026-05-30,1,success,
 2026-05-30T22:03:50.623037,telegram_data,2026-05-30,0,failed,'food'
+2026-05-31T22:03:27.307814,activities,2026-05-31,0,success,
+2026-05-31T22:03:41.535125,health,2026-05-31,1,success,
+2026-05-31T22:03:47.467092,physiological,2026-05-31,1,success,
+2026-05-31T22:03:47.563812,eufy_body_composition,2026-05-31,0,success,
+2026-05-31T22:03:49.060921,weekly_training_zones,2026-05-31,0,success,
+2026-05-31T22:03:49.077272,recovery_trends,2026-05-31,1,success,
+2026-05-31T22:03:49.082570,telegram_data,2026-05-31,0,failed,'food'
