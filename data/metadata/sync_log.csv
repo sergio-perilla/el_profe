@@ -1238,3 +1238,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-05-31T22:03:49.060921,weekly_training_zones,2026-05-31,0,success,
 2026-05-31T22:03:49.077272,recovery_trends,2026-05-31,1,success,
 2026-05-31T22:03:49.082570,telegram_data,2026-05-31,0,failed,'food'
+2026-06-01T23:03:14.853411,activities,2026-06-01,1,success,
+2026-06-01T23:03:25.352758,health,2026-06-01,1,success,
+2026-06-01T23:03:29.695667,physiological,2026-06-01,1,success,
+2026-06-01T23:03:29.872139,eufy_body_composition,2026-06-01,0,success,
+2026-06-01T23:03:30.155765,weekly_training_zones,2026-06-01,1,success,
+2026-06-01T23:03:30.171739,recovery_trends,2026-06-01,1,success,
+2026-06-01T23:03:30.176806,telegram_data,2026-06-01,0,failed,'food'
