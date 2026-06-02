@@ -1245,3 +1245,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-01T23:03:30.155765,weekly_training_zones,2026-06-01,1,success,
 2026-06-01T23:03:30.171739,recovery_trends,2026-06-01,1,success,
 2026-06-01T23:03:30.176806,telegram_data,2026-06-01,0,failed,'food'
+2026-06-02T23:04:15.962187,activities,2026-06-02,1,success,
+2026-06-02T23:04:30.856452,health,2026-06-02,1,success,
+2026-06-02T23:04:38.064129,physiological,2026-06-02,1,success,
+2026-06-02T23:04:38.180225,eufy_body_composition,2026-06-02,0,success,
+2026-06-02T23:04:38.900318,weekly_training_zones,2026-06-02,0,success,
+2026-06-02T23:04:38.916268,recovery_trends,2026-06-02,1,success,
+2026-06-02T23:04:38.921444,telegram_data,2026-06-02,0,failed,'food'
