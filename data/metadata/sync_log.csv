@@ -1252,3 +1252,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-02T23:04:38.900318,weekly_training_zones,2026-06-02,0,success,
 2026-06-02T23:04:38.916268,recovery_trends,2026-06-02,1,success,
 2026-06-02T23:04:38.921444,telegram_data,2026-06-02,0,failed,'food'
+2026-06-03T23:06:48.993994,activities,2026-06-03,0,success,
+2026-06-03T23:07:00.308626,health,2026-06-03,1,success,
+2026-06-03T23:07:05.949673,physiological,2026-06-03,1,success,
+2026-06-03T23:07:06.117717,eufy_body_composition,2026-06-03,0,success,
+2026-06-03T23:07:06.857259,weekly_training_zones,2026-06-03,0,success,
+2026-06-03T23:07:06.874289,recovery_trends,2026-06-03,1,success,
+2026-06-03T23:07:06.879756,telegram_data,2026-06-03,0,failed,'food'
