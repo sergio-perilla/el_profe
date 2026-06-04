@@ -1259,3 +1259,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-03T23:07:06.857259,weekly_training_zones,2026-06-03,0,success,
 2026-06-03T23:07:06.874289,recovery_trends,2026-06-03,1,success,
 2026-06-03T23:07:06.879756,telegram_data,2026-06-03,0,failed,'food'
+2026-06-04T22:23:05.651295,activities,2026-06-04,0,success,
+2026-06-04T22:23:18.293651,health,2026-06-04,1,success,
+2026-06-04T22:23:23.272193,physiological,2026-06-04,1,success,
+2026-06-04T22:23:23.363717,eufy_body_composition,2026-06-04,0,success,
+2026-06-04T22:23:24.350802,weekly_training_zones,2026-06-04,0,success,
+2026-06-04T22:23:24.367318,recovery_trends,2026-06-04,1,success,
+2026-06-04T22:23:24.372639,telegram_data,2026-06-04,0,failed,'food'
