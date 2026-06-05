@@ -1266,3 +1266,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-04T22:23:24.350802,weekly_training_zones,2026-06-04,0,success,
 2026-06-04T22:23:24.367318,recovery_trends,2026-06-04,1,success,
 2026-06-04T22:23:24.372639,telegram_data,2026-06-04,0,failed,'food'
+2026-06-05T22:17:42.932600,activities,2026-06-05,0,success,
+2026-06-05T22:17:56.639259,health,2026-06-05,1,success,
+2026-06-05T22:18:03.107462,physiological,2026-06-05,1,success,
+2026-06-05T22:18:03.223594,eufy_body_composition,2026-06-05,0,success,
+2026-06-05T22:18:04.404925,weekly_training_zones,2026-06-05,0,success,
+2026-06-05T22:18:04.421511,recovery_trends,2026-06-05,1,success,
+2026-06-05T22:18:04.426921,telegram_data,2026-06-05,0,failed,'food'
