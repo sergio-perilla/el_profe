@@ -1287,3 +1287,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-07T22:08:10.680057,weekly_training_zones,2026-06-07,0,success,
 2026-06-07T22:08:10.695082,recovery_trends,2026-06-07,1,success,
 2026-06-07T22:08:10.700082,telegram_data,2026-06-07,0,failed,'food'
+2026-06-08T22:41:33.653300,activities,2026-06-08,0,success,
+2026-06-08T22:41:43.964234,health,2026-06-08,1,success,
+2026-06-08T22:41:47.842290,physiological,2026-06-08,1,success,
+2026-06-08T22:41:48.005303,eufy_body_composition,2026-06-08,0,success,
+2026-06-08T22:41:48.077441,weekly_training_zones,2026-06-08,1,success,
+2026-06-08T22:41:48.093324,recovery_trends,2026-06-08,1,success,
+2026-06-08T22:41:48.098569,telegram_data,2026-06-08,0,failed,'food'
