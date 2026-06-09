@@ -1294,3 +1294,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-08T22:41:48.077441,weekly_training_zones,2026-06-08,1,success,
 2026-06-08T22:41:48.093324,recovery_trends,2026-06-08,1,success,
 2026-06-08T22:41:48.098569,telegram_data,2026-06-08,0,failed,'food'
+2026-06-09T22:25:59.729337,activities,2026-06-09,0,success,
+2026-06-09T22:26:13.502092,health,2026-06-09,1,success,
+2026-06-09T22:26:18.870377,physiological,2026-06-09,1,success,
+2026-06-09T22:26:18.938163,eufy_body_composition,2026-06-09,0,success,
+2026-06-09T22:26:19.054403,weekly_training_zones,2026-06-09,0,success,
+2026-06-09T22:26:19.070911,recovery_trends,2026-06-09,1,success,
+2026-06-09T22:26:19.076303,telegram_data,2026-06-09,0,failed,'food'
