@@ -1308,3 +1308,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-10T22:53:24.096342,weekly_training_zones,2026-06-10,0,success,
 2026-06-10T22:53:24.111775,recovery_trends,2026-06-10,1,success,
 2026-06-10T22:53:24.116905,telegram_data,2026-06-10,0,failed,'food'
+2026-06-11T22:50:46.196216,activities,2026-06-11,0,success,
+2026-06-11T22:50:57.628644,health,2026-06-11,1,success,
+2026-06-11T22:51:03.186847,physiological,2026-06-11,1,success,
+2026-06-11T22:51:03.294596,eufy_body_composition,2026-06-11,0,success,
+2026-06-11T22:51:03.861765,weekly_training_zones,2026-06-11,0,success,
+2026-06-11T22:51:03.877177,recovery_trends,2026-06-11,1,success,
+2026-06-11T22:51:03.882376,telegram_data,2026-06-11,0,failed,'food'
