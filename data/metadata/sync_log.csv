@@ -1315,3 +1315,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-11T22:51:03.861765,weekly_training_zones,2026-06-11,0,success,
 2026-06-11T22:51:03.877177,recovery_trends,2026-06-11,1,success,
 2026-06-11T22:51:03.882376,telegram_data,2026-06-11,0,failed,'food'
+2026-06-12T22:26:22.053714,activities,2026-06-12,0,success,
+2026-06-12T22:26:33.832380,health,2026-06-12,1,success,
+2026-06-12T22:26:38.646411,physiological,2026-06-12,1,success,
+2026-06-12T22:26:38.748769,eufy_body_composition,2026-06-12,0,success,
+2026-06-12T22:26:39.488679,weekly_training_zones,2026-06-12,0,success,
+2026-06-12T22:26:39.505087,recovery_trends,2026-06-12,1,success,
+2026-06-12T22:26:39.510401,telegram_data,2026-06-12,0,failed,'food'
