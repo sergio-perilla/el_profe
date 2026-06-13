@@ -1322,3 +1322,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-12T22:26:39.488679,weekly_training_zones,2026-06-12,0,success,
 2026-06-12T22:26:39.505087,recovery_trends,2026-06-12,1,success,
 2026-06-12T22:26:39.510401,telegram_data,2026-06-12,0,failed,'food'
+2026-06-13T22:07:44.117732,activities,2026-06-13,3,success,
+2026-06-13T22:07:53.888241,health,2026-06-13,1,success,
+2026-06-13T22:07:58.134623,physiological,2026-06-13,1,success,
+2026-06-13T22:07:58.225703,eufy_body_composition,2026-06-13,0,success,
+2026-06-13T22:07:59.290756,weekly_training_zones,2026-06-13,0,success,
+2026-06-13T22:07:59.306594,recovery_trends,2026-06-13,1,success,
+2026-06-13T22:07:59.311884,telegram_data,2026-06-13,0,failed,'food'
