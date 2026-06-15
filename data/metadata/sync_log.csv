@@ -1336,3 +1336,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-14T22:15:51.323276,weekly_training_zones,2026-06-14,0,success,
 2026-06-14T22:15:51.339158,recovery_trends,2026-06-14,1,success,
 2026-06-14T22:15:51.344569,telegram_data,2026-06-14,0,failed,'food'
+2026-06-15T23:04:14.047318,activities,2026-06-15,0,success,
+2026-06-15T23:04:26.674219,health,2026-06-15,1,success,
+2026-06-15T23:04:31.822587,physiological,2026-06-15,1,success,
+2026-06-15T23:04:31.975483,eufy_body_composition,2026-06-15,0,success,
+2026-06-15T23:04:32.351250,weekly_training_zones,2026-06-15,1,success,
+2026-06-15T23:04:32.363516,recovery_trends,2026-06-15,1,success,
+2026-06-15T23:04:32.367582,telegram_data,2026-06-15,0,failed,'food'
