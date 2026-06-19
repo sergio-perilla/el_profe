@@ -1364,3 +1364,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-18T22:57:10.221094,weekly_training_zones,2026-06-18,0,success,
 2026-06-18T22:57:10.237677,recovery_trends,2026-06-18,1,success,
 2026-06-18T22:57:10.243146,telegram_data,2026-06-18,0,failed,'food'
+2026-06-19T22:07:20.184790,activities,2026-06-19,0,success,
+2026-06-19T22:07:32.640991,health,2026-06-19,1,success,
+2026-06-19T22:07:37.507983,physiological,2026-06-19,1,success,
+2026-06-19T22:07:37.564875,eufy_body_composition,2026-06-19,0,success,
+2026-06-19T22:07:38.479713,weekly_training_zones,2026-06-19,0,success,
+2026-06-19T22:07:38.496688,recovery_trends,2026-06-19,1,success,
+2026-06-19T22:07:38.502275,telegram_data,2026-06-19,0,failed,'food'
