@@ -1413,3 +1413,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-25T22:23:09.114680,weekly_training_zones,2026-06-25,0,success,
 2026-06-25T22:23:09.131006,recovery_trends,2026-06-25,1,success,
 2026-06-25T22:23:09.136670,telegram_data,2026-06-25,0,failed,'food'
+2026-06-26T22:16:46.899998,activities,2026-06-26,1,success,
+2026-06-26T22:16:57.079730,health,2026-06-26,1,success,
+2026-06-26T22:17:01.436709,physiological,2026-06-26,1,success,
+2026-06-26T22:17:01.530813,eufy_body_composition,2026-06-26,0,success,
+2026-06-26T22:17:02.489464,weekly_training_zones,2026-06-26,0,success,
+2026-06-26T22:17:02.507043,recovery_trends,2026-06-26,1,success,
+2026-06-26T22:17:02.512772,telegram_data,2026-06-26,0,failed,'food'
