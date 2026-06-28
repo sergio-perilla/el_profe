@@ -1427,3 +1427,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-06-27T22:06:09.173729,weekly_training_zones,2026-06-27,0,success,
 2026-06-27T22:06:09.191977,recovery_trends,2026-06-27,1,success,
 2026-06-27T22:06:09.197916,telegram_data,2026-06-27,0,failed,'food'
+2026-06-28T22:04:35.641432,activities,2026-06-28,0,success,
+2026-06-28T22:04:47.231680,health,2026-06-28,1,success,
+2026-06-28T22:04:52.276123,physiological,2026-06-28,1,success,
+2026-06-28T22:04:52.374977,eufy_body_composition,2026-06-28,0,success,
+2026-06-28T22:04:53.518193,weekly_training_zones,2026-06-28,0,success,
+2026-06-28T22:04:53.549421,recovery_trends,2026-06-28,1,success,
+2026-06-28T22:04:53.555133,telegram_data,2026-06-28,0,failed,'food'
