@@ -1469,3 +1469,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-07-03T22:08:07.830272,weekly_training_zones,2026-07-03,0,success,
 2026-07-03T22:08:07.846167,recovery_trends,2026-07-03,1,success,
 2026-07-03T22:08:07.851453,telegram_data,2026-07-03,0,failed,'food'
+2026-07-04T22:01:45.892135,activities,2026-07-04,0,success,
+2026-07-04T22:01:58.215983,health,2026-07-04,1,success,
+2026-07-04T22:02:04.215013,physiological,2026-07-04,1,success,
+2026-07-04T22:02:04.331292,eufy_body_composition,2026-07-04,0,success,
+2026-07-04T22:02:05.442023,weekly_training_zones,2026-07-04,0,success,
+2026-07-04T22:02:05.457680,recovery_trends,2026-07-04,1,success,
+2026-07-04T22:02:05.463211,telegram_data,2026-07-04,0,failed,'food'
