@@ -1581,3 +1581,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-07-19T21:57:15.461427,weekly_training_zones,2026-07-19,0,success,
 2026-07-19T21:57:15.479394,recovery_trends,2026-07-19,1,success,
 2026-07-19T21:57:15.486423,telegram_data,2026-07-19,0,failed,'food'
+2026-07-20T22:02:50.019944,activities,2026-07-20,0,success,
+2026-07-20T22:03:02.756334,health,2026-07-20,1,success,
+2026-07-20T22:03:08.582297,physiological,2026-07-20,1,success,
+2026-07-20T22:03:08.699918,eufy_body_composition,2026-07-20,0,success,
+2026-07-20T22:03:08.792172,weekly_training_zones,2026-07-20,1,success,
+2026-07-20T22:03:08.804082,recovery_trends,2026-07-20,1,success,
+2026-07-20T22:03:08.808774,telegram_data,2026-07-20,0,failed,'food'
