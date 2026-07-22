@@ -1595,3 +1595,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-07-21T22:05:52.726235,weekly_training_zones,2026-07-21,0,success,
 2026-07-21T22:05:52.744240,recovery_trends,2026-07-21,1,success,
 2026-07-21T22:05:52.751369,telegram_data,2026-07-21,0,failed,'food'
+2026-07-22T22:06:20.370161,activities,2026-07-22,0,success,
+2026-07-22T22:06:35.076251,health,2026-07-22,1,success,
+2026-07-22T22:06:42.711384,physiological,2026-07-22,1,success,
+2026-07-22T22:06:42.808754,eufy_body_composition,2026-07-22,0,success,
+2026-07-22T22:06:42.929717,weekly_training_zones,2026-07-22,0,success,
+2026-07-22T22:06:42.942822,recovery_trends,2026-07-22,1,success,
+2026-07-22T22:06:42.948146,telegram_data,2026-07-22,0,failed,'food'
