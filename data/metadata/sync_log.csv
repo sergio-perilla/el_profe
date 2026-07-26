@@ -1623,3 +1623,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-07-25T21:59:19.410541,weekly_training_zones,2026-07-25,0,success,
 2026-07-25T21:59:19.428162,recovery_trends,2026-07-25,1,success,
 2026-07-25T21:59:19.434933,telegram_data,2026-07-25,0,failed,'food'
+2026-07-26T22:02:11.562410,activities,2026-07-26,0,success,
+2026-07-26T22:02:25.853487,health,2026-07-26,1,success,
+2026-07-26T22:02:32.112778,physiological,2026-07-26,1,success,
+2026-07-26T22:02:32.230813,eufy_body_composition,2026-07-26,0,success,
+2026-07-26T22:02:32.716610,weekly_training_zones,2026-07-26,0,success,
+2026-07-26T22:02:32.734374,recovery_trends,2026-07-26,1,success,
+2026-07-26T22:02:32.741159,telegram_data,2026-07-26,0,failed,'food'
