@@ -1630,3 +1630,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-07-26T22:02:32.716610,weekly_training_zones,2026-07-26,0,success,
 2026-07-26T22:02:32.734374,recovery_trends,2026-07-26,1,success,
 2026-07-26T22:02:32.741159,telegram_data,2026-07-26,0,failed,'food'
+2026-07-27T22:10:37.960643,activities,2026-07-27,0,success,
+2026-07-27T22:10:50.502261,health,2026-07-27,1,success,
+2026-07-27T22:10:55.608961,physiological,2026-07-27,1,success,
+2026-07-27T22:10:55.706221,eufy_body_composition,2026-07-27,0,success,
+2026-07-27T22:10:55.801240,weekly_training_zones,2026-07-27,1,success,
+2026-07-27T22:10:55.821367,recovery_trends,2026-07-27,1,success,
+2026-07-27T22:10:55.828995,telegram_data,2026-07-27,0,failed,'food'
