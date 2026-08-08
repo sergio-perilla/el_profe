@@ -1714,3 +1714,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-07T21:43:09.235991,weekly_training_zones,2026-08-07,0,success,
 2026-08-07T21:43:09.263195,recovery_trends,2026-08-07,0,success,
 2026-08-07T21:43:09.270257,telegram_data,2026-08-07,0,failed,'food'
+2026-08-08T21:33:24.869476,activities,2026-08-08,0,success,
+2026-08-08T21:33:36.266255,health,2026-08-08,1,success,
+2026-08-08T21:33:40.881711,physiological,2026-08-08,1,success,
+2026-08-08T21:33:41.033231,eufy_body_composition,2026-08-08,0,success,
+2026-08-08T21:33:41.590171,weekly_training_zones,2026-08-08,0,success,
+2026-08-08T21:33:41.608192,recovery_trends,2026-08-08,1,success,
+2026-08-08T21:33:41.615333,telegram_data,2026-08-08,0,failed,'food'
