@@ -1728,3 +1728,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-09T21:35:55.108984,weekly_training_zones,2026-08-09,0,success,
 2026-08-09T21:35:55.136606,recovery_trends,2026-08-09,1,success,
 2026-08-09T21:35:55.145062,telegram_data,2026-08-09,0,failed,'food'
+2026-08-10T21:45:10.425007,activities,2026-08-10,0,success,
+2026-08-10T21:45:23.016633,health,2026-08-10,1,success,
+2026-08-10T21:45:28.455550,physiological,2026-08-10,1,success,
+2026-08-10T21:45:28.519782,eufy_body_composition,2026-08-10,0,success,
+2026-08-10T21:45:28.622203,weekly_training_zones,2026-08-10,1,success,
+2026-08-10T21:45:28.661283,recovery_trends,2026-08-10,1,success,
+2026-08-10T21:45:28.669050,telegram_data,2026-08-10,0,failed,'food'
