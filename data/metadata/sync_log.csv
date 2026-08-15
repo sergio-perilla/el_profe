@@ -1763,3 +1763,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-14T21:28:12.252439,weekly_training_zones,2026-08-14,0,success,
 2026-08-14T21:28:12.271241,recovery_trends,2026-08-14,1,success,
 2026-08-14T21:28:12.278675,telegram_data,2026-08-14,0,failed,'food'
+2026-08-15T21:24:06.122412,activities,2026-08-15,0,success,
+2026-08-15T21:24:18.550621,health,2026-08-15,1,success,
+2026-08-15T21:24:23.961470,physiological,2026-08-15,1,success,
+2026-08-15T21:24:24.151048,eufy_body_composition,2026-08-15,0,success,
+2026-08-15T21:24:24.253247,weekly_training_zones,2026-08-15,0,success,
+2026-08-15T21:24:24.265360,recovery_trends,2026-08-15,1,success,
+2026-08-15T21:24:24.326360,telegram_data,2026-08-15,0,failed,'food'
