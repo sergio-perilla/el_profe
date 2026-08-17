@@ -1777,3 +1777,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-16T21:23:18.104187,weekly_training_zones,2026-08-16,0,success,
 2026-08-16T21:23:18.122962,recovery_trends,2026-08-16,1,success,
 2026-08-16T21:23:18.130169,telegram_data,2026-08-16,0,failed,'food'
+2026-08-17T21:28:46.264457,activities,2026-08-17,0,success,
+2026-08-17T21:29:02.675770,health,2026-08-17,1,success,
+2026-08-17T21:29:10.435972,physiological,2026-08-17,1,success,
+2026-08-17T21:29:10.575751,eufy_body_composition,2026-08-17,0,success,
+2026-08-17T21:29:10.739718,weekly_training_zones,2026-08-17,1,success,
+2026-08-17T21:29:10.758249,recovery_trends,2026-08-17,1,success,
+2026-08-17T21:29:10.765724,telegram_data,2026-08-17,0,failed,'food'
