@@ -1791,3 +1791,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-18T21:27:52.300650,weekly_training_zones,2026-08-18,0,success,
 2026-08-18T21:27:52.330782,recovery_trends,2026-08-18,1,success,
 2026-08-18T21:27:52.337044,telegram_data,2026-08-18,0,failed,'food'
+2026-08-19T21:28:08.635895,activities,2026-08-19,0,success,
+2026-08-19T21:28:21.249334,health,2026-08-19,1,success,
+2026-08-19T21:28:27.492033,physiological,2026-08-19,1,success,
+2026-08-19T21:28:27.641895,eufy_body_composition,2026-08-19,0,success,
+2026-08-19T21:28:28.057472,weekly_training_zones,2026-08-19,0,success,
+2026-08-19T21:28:28.093500,recovery_trends,2026-08-19,1,success,
+2026-08-19T21:28:28.101403,telegram_data,2026-08-19,0,failed,'food'
