@@ -1812,3 +1812,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-21T21:28:05.878681,weekly_training_zones,2026-08-21,0,success,
 2026-08-21T21:28:05.913478,recovery_trends,2026-08-21,1,success,
 2026-08-21T21:28:05.921271,telegram_data,2026-08-21,0,failed,'food'
+2026-08-22T21:24:48.666401,activities,2026-08-22,0,success,
+2026-08-22T21:25:01.217185,health,2026-08-22,1,success,
+2026-08-22T21:25:07.252093,physiological,2026-08-22,1,success,
+2026-08-22T21:25:07.307867,eufy_body_composition,2026-08-22,0,success,
+2026-08-22T21:25:07.997408,weekly_training_zones,2026-08-22,0,success,
+2026-08-22T21:25:08.017922,recovery_trends,2026-08-22,1,success,
+2026-08-22T21:25:08.025874,telegram_data,2026-08-22,0,failed,'food'
