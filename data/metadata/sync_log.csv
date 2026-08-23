@@ -1819,3 +1819,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-22T21:25:07.997408,weekly_training_zones,2026-08-22,0,success,
 2026-08-22T21:25:08.017922,recovery_trends,2026-08-22,1,success,
 2026-08-22T21:25:08.025874,telegram_data,2026-08-22,0,failed,'food'
+2026-08-23T21:24:37.864154,activities,2026-08-23,0,success,
+2026-08-23T21:24:48.153176,health,2026-08-23,1,success,
+2026-08-23T21:24:52.790147,physiological,2026-08-23,1,success,
+2026-08-23T21:24:52.943173,eufy_body_composition,2026-08-23,0,success,
+2026-08-23T21:24:53.468316,weekly_training_zones,2026-08-23,0,success,
+2026-08-23T21:24:53.505926,recovery_trends,2026-08-23,1,success,
+2026-08-23T21:24:53.514019,telegram_data,2026-08-23,0,failed,'food'
