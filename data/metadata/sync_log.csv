@@ -1826,3 +1826,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-23T21:24:53.468316,weekly_training_zones,2026-08-23,0,success,
 2026-08-23T21:24:53.505926,recovery_trends,2026-08-23,1,success,
 2026-08-23T21:24:53.514019,telegram_data,2026-08-23,0,failed,'food'
+2026-08-24T21:32:50.719910,activities,2026-08-24,1,success,
+2026-08-24T21:33:05.590995,health,2026-08-24,1,success,
+2026-08-24T21:33:12.893275,physiological,2026-08-24,1,success,
+2026-08-24T21:33:12.957598,eufy_body_composition,2026-08-24,0,success,
+2026-08-24T21:33:13.432328,weekly_training_zones,2026-08-24,1,success,
+2026-08-24T21:33:13.451149,recovery_trends,2026-08-24,1,success,
+2026-08-24T21:33:13.458470,telegram_data,2026-08-24,0,failed,'food'
