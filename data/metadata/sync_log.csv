@@ -1833,3 +1833,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-24T21:33:13.432328,weekly_training_zones,2026-08-24,1,success,
 2026-08-24T21:33:13.451149,recovery_trends,2026-08-24,1,success,
 2026-08-24T21:33:13.458470,telegram_data,2026-08-24,0,failed,'food'
+2026-08-25T21:31:28.561079,activities,2026-08-25,0,success,
+2026-08-25T21:31:43.312314,health,2026-08-25,1,success,
+2026-08-25T21:31:54.707472,physiological,2026-08-25,1,success,
+2026-08-25T21:31:54.842837,eufy_body_composition,2026-08-25,0,success,
+2026-08-25T21:31:55.694122,weekly_training_zones,2026-08-25,0,success,
+2026-08-25T21:31:55.729242,recovery_trends,2026-08-25,1,success,
+2026-08-25T21:31:55.737005,telegram_data,2026-08-25,0,failed,'food'
