@@ -1840,3 +1840,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-25T21:31:55.694122,weekly_training_zones,2026-08-25,0,success,
 2026-08-25T21:31:55.729242,recovery_trends,2026-08-25,1,success,
 2026-08-25T21:31:55.737005,telegram_data,2026-08-25,0,failed,'food'
+2026-08-27T00:33:44.792398,activities,2026-08-27,0,success,
+2026-08-27T00:34:00.801763,health,2026-08-27,2,success,
+2026-08-27T00:34:08.020345,physiological,2026-08-27,2,success,
+2026-08-27T00:34:08.092651,eufy_body_composition,2026-08-27,0,success,
+2026-08-27T00:34:08.907683,weekly_training_zones,2026-08-27,0,success,
+2026-08-27T00:34:08.922925,recovery_trends,2026-08-27,1,success,
+2026-08-27T00:34:08.929269,telegram_data,2026-08-27,0,failed,'food'
