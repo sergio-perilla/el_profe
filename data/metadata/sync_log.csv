@@ -1861,3 +1861,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-08-29T03:06:42.672593,weekly_training_zones,2026-08-29,0,success,
 2026-08-29T03:06:42.690782,recovery_trends,2026-08-29,1,success,
 2026-08-29T03:06:42.698227,telegram_data,2026-08-29,0,failed,'food'
+2026-08-29T23:06:43.699098,activities,2026-08-29,0,success,
+2026-08-29T23:06:56.209559,health,2026-08-29,0,success,
+2026-08-29T23:07:01.439383,physiological,2026-08-29,0,success,
+2026-08-29T23:07:01.529819,eufy_body_composition,2026-08-29,0,success,
+2026-08-29T23:07:02.808368,weekly_training_zones,2026-08-29,0,success,
+2026-08-29T23:07:02.835099,recovery_trends,2026-08-29,0,success,
+2026-08-29T23:07:02.842914,telegram_data,2026-08-29,0,failed,'food'
