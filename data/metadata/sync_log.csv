@@ -1903,3 +1903,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-03T23:05:36.833456,weekly_training_zones,2026-09-03,0,success,
 2026-09-03T23:05:36.852302,recovery_trends,2026-09-03,1,success,
 2026-09-03T23:05:36.859691,telegram_data,2026-09-03,0,failed,'food'
+2026-09-04T22:52:42.259848,activities,2026-09-04,0,success,
+2026-09-04T22:52:57.267222,health,2026-09-04,1,success,
+2026-09-04T22:53:04.666430,physiological,2026-09-04,1,success,
+2026-09-04T22:53:04.871287,eufy_body_composition,2026-09-04,0,success,
+2026-09-04T22:53:05.804466,weekly_training_zones,2026-09-04,0,success,
+2026-09-04T22:53:05.824181,recovery_trends,2026-09-04,1,success,
+2026-09-04T22:53:05.832253,telegram_data,2026-09-04,0,failed,'food'
