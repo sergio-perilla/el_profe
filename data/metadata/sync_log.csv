@@ -1931,3 +1931,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-07T23:21:09.414889,weekly_training_zones,2026-09-07,1,success,
 2026-09-07T23:21:09.445549,recovery_trends,2026-09-07,1,success,
 2026-09-07T23:21:09.455282,telegram_data,2026-09-07,0,failed,'food'
+2026-09-08T23:15:28.645025,activities,2026-09-08,0,success,
+2026-09-08T23:15:42.704873,health,2026-09-08,1,success,
+2026-09-08T23:15:49.666075,physiological,2026-09-08,1,success,
+2026-09-08T23:15:49.704028,eufy_body_composition,2026-09-08,0,success,
+2026-09-08T23:15:49.821794,weekly_training_zones,2026-09-08,0,success,
+2026-09-08T23:15:49.836781,recovery_trends,2026-09-08,1,success,
+2026-09-08T23:15:49.843029,telegram_data,2026-09-08,0,failed,'food'
