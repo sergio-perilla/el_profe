@@ -1952,3 +1952,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-10T23:00:39.625872,weekly_training_zones,2026-09-10,0,success,
 2026-09-10T23:00:39.645163,recovery_trends,2026-09-10,1,success,
 2026-09-10T23:00:39.652843,telegram_data,2026-09-10,0,failed,'food'
+2026-09-11T23:04:42.816217,activities,2026-09-11,0,success,
+2026-09-11T23:04:56.982392,health,2026-09-11,1,success,
+2026-09-11T23:05:04.740456,physiological,2026-09-11,1,success,
+2026-09-11T23:05:04.833445,eufy_body_composition,2026-09-11,0,success,
+2026-09-11T23:05:05.547406,weekly_training_zones,2026-09-11,0,success,
+2026-09-11T23:05:05.567162,recovery_trends,2026-09-11,1,success,
+2026-09-11T23:05:05.574887,telegram_data,2026-09-11,0,failed,'food'
