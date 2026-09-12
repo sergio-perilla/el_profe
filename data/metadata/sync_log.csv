@@ -1959,3 +1959,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-11T23:05:05.547406,weekly_training_zones,2026-09-11,0,success,
 2026-09-11T23:05:05.567162,recovery_trends,2026-09-11,1,success,
 2026-09-11T23:05:05.574887,telegram_data,2026-09-11,0,failed,'food'
+2026-09-12T22:54:08.855999,activities,2026-09-12,0,success,
+2026-09-12T22:54:19.922618,health,2026-09-12,1,success,
+2026-09-12T22:54:25.185032,physiological,2026-09-12,1,success,
+2026-09-12T22:54:25.356218,eufy_body_composition,2026-09-12,0,success,
+2026-09-12T22:54:26.053298,weekly_training_zones,2026-09-12,0,success,
+2026-09-12T22:54:26.072842,recovery_trends,2026-09-12,1,success,
+2026-09-12T22:54:26.080473,telegram_data,2026-09-12,0,failed,'food'
