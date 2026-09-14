@@ -1973,3 +1973,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-13T23:00:53.013039,weekly_training_zones,2026-09-13,0,success,
 2026-09-13T23:00:53.032802,recovery_trends,2026-09-13,1,success,
 2026-09-13T23:00:53.040761,telegram_data,2026-09-13,0,failed,'food'
+2026-09-14T23:44:39.922404,activities,2026-09-14,0,success,
+2026-09-14T23:44:51.693264,health,2026-09-14,1,success,
+2026-09-14T23:44:56.483975,physiological,2026-09-14,1,success,
+2026-09-14T23:44:56.601404,eufy_body_composition,2026-09-14,0,success,
+2026-09-14T23:44:56.711821,weekly_training_zones,2026-09-14,1,success,
+2026-09-14T23:44:56.741781,recovery_trends,2026-09-14,1,success,
+2026-09-14T23:44:56.753873,telegram_data,2026-09-14,0,failed,'food'
