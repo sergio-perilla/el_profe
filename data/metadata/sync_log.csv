@@ -1980,3 +1980,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-14T23:44:56.711821,weekly_training_zones,2026-09-14,1,success,
 2026-09-14T23:44:56.741781,recovery_trends,2026-09-14,1,success,
 2026-09-14T23:44:56.753873,telegram_data,2026-09-14,0,failed,'food'
+2026-09-15T23:27:27.029876,activities,2026-09-15,0,success,
+2026-09-15T23:27:39.221300,health,2026-09-15,1,success,
+2026-09-15T23:27:44.769336,physiological,2026-09-15,1,success,
+2026-09-15T23:27:44.834862,eufy_body_composition,2026-09-15,0,success,
+2026-09-15T23:27:44.934104,weekly_training_zones,2026-09-15,0,success,
+2026-09-15T23:27:44.953927,recovery_trends,2026-09-15,1,success,
+2026-09-15T23:27:44.961909,telegram_data,2026-09-15,0,failed,'food'
