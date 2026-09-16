@@ -1987,3 +1987,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-15T23:27:44.934104,weekly_training_zones,2026-09-15,0,success,
 2026-09-15T23:27:44.953927,recovery_trends,2026-09-15,1,success,
 2026-09-15T23:27:44.961909,telegram_data,2026-09-15,0,failed,'food'
+2026-09-16T23:34:50.195215,activities,2026-09-16,0,success,
+2026-09-16T23:35:06.036086,health,2026-09-16,1,success,
+2026-09-16T23:35:13.934349,physiological,2026-09-16,1,success,
+2026-09-16T23:35:14.051390,eufy_body_composition,2026-09-16,0,success,
+2026-09-16T23:35:14.197867,weekly_training_zones,2026-09-16,0,success,
+2026-09-16T23:35:14.208887,recovery_trends,2026-09-16,1,success,
+2026-09-16T23:35:14.213444,telegram_data,2026-09-16,0,failed,'food'
