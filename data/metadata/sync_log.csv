@@ -1994,3 +1994,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-16T23:35:14.197867,weekly_training_zones,2026-09-16,0,success,
 2026-09-16T23:35:14.208887,recovery_trends,2026-09-16,1,success,
 2026-09-16T23:35:14.213444,telegram_data,2026-09-16,0,failed,'food'
+2026-09-17T23:26:39.332614,activities,2026-09-17,0,success,
+2026-09-17T23:26:50.775333,health,2026-09-17,1,success,
+2026-09-17T23:26:55.641321,physiological,2026-09-17,1,success,
+2026-09-17T23:26:55.749057,eufy_body_composition,2026-09-17,0,success,
+2026-09-17T23:26:55.843949,weekly_training_zones,2026-09-17,0,success,
+2026-09-17T23:26:55.858451,recovery_trends,2026-09-17,1,success,
+2026-09-17T23:26:55.864531,telegram_data,2026-09-17,0,failed,'food'
