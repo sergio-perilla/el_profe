@@ -2008,3 +2008,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-18T23:07:53.370039,weekly_training_zones,2026-09-18,0,success,
 2026-09-18T23:07:53.389298,recovery_trends,2026-09-18,1,success,
 2026-09-18T23:07:53.396923,telegram_data,2026-09-18,0,failed,'food'
+2026-09-19T22:45:59.316035,activities,2026-09-19,1,success,
+2026-09-19T22:46:16.091730,health,2026-09-19,1,success,
+2026-09-19T22:46:23.236638,physiological,2026-09-19,1,success,
+2026-09-19T22:46:23.327183,eufy_body_composition,2026-09-19,0,success,
+2026-09-19T22:46:24.133435,weekly_training_zones,2026-09-19,0,success,
+2026-09-19T22:46:24.171307,recovery_trends,2026-09-19,1,success,
+2026-09-19T22:46:24.177979,telegram_data,2026-09-19,0,failed,'food'
