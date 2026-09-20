@@ -2015,3 +2015,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-19T22:46:24.133435,weekly_training_zones,2026-09-19,0,success,
 2026-09-19T22:46:24.171307,recovery_trends,2026-09-19,1,success,
 2026-09-19T22:46:24.177979,telegram_data,2026-09-19,0,failed,'food'
+2026-09-20T23:04:33.020562,activities,2026-09-20,1,success,
+2026-09-20T23:04:44.901985,health,2026-09-20,1,success,
+2026-09-20T23:04:50.481278,physiological,2026-09-20,1,success,
+2026-09-20T23:04:50.553653,eufy_body_composition,2026-09-20,0,success,
+2026-09-20T23:04:51.628356,weekly_training_zones,2026-09-20,0,success,
+2026-09-20T23:04:51.647497,recovery_trends,2026-09-20,1,success,
+2026-09-20T23:04:51.655840,telegram_data,2026-09-20,0,failed,'food'
