@@ -2043,3 +2043,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-23T23:28:54.183525,weekly_training_zones,2026-09-23,0,success,
 2026-09-23T23:28:54.204261,recovery_trends,2026-09-23,1,success,
 2026-09-23T23:28:54.212861,telegram_data,2026-09-23,0,failed,'food'
+2026-09-24T23:48:00.936171,activities,2026-09-24,0,success,
+2026-09-24T23:48:16.860769,health,2026-09-24,1,success,
+2026-09-24T23:48:23.801104,physiological,2026-09-24,1,success,
+2026-09-24T23:48:23.907740,eufy_body_composition,2026-09-24,0,success,
+2026-09-24T23:48:24.716342,weekly_training_zones,2026-09-24,0,success,
+2026-09-24T23:48:24.735179,recovery_trends,2026-09-24,1,success,
+2026-09-24T23:48:24.742526,telegram_data,2026-09-24,0,failed,'food'
