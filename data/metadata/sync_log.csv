@@ -2057,3 +2057,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-25T23:54:06.218112,weekly_training_zones,2026-09-25,0,success,
 2026-09-25T23:54:06.237538,recovery_trends,2026-09-25,1,success,
 2026-09-25T23:54:06.245431,telegram_data,2026-09-25,0,failed,'food'
+2026-09-27T23:42:41.921763,activities,2026-09-27,0,success,
+2026-09-27T23:42:57.335783,health,2026-09-27,2,success,
+2026-09-27T23:43:05.006253,physiological,2026-09-27,2,success,
+2026-09-27T23:43:05.156721,eufy_body_composition,2026-09-27,0,success,
+2026-09-27T23:43:07.094044,weekly_training_zones,2026-09-27,0,success,
+2026-09-27T23:43:07.117201,recovery_trends,2026-09-27,1,success,
+2026-09-27T23:43:07.126946,telegram_data,2026-09-27,0,failed,'food'
