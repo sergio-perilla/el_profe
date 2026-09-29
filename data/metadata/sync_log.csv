@@ -2064,3 +2064,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-09-27T23:43:07.094044,weekly_training_zones,2026-09-27,0,success,
 2026-09-27T23:43:07.117201,recovery_trends,2026-09-27,1,success,
 2026-09-27T23:43:07.126946,telegram_data,2026-09-27,0,failed,'food'
+2026-09-29T00:52:29.729780,activities,2026-09-29,0,success,
+2026-09-29T00:52:40.822828,health,2026-09-29,2,success,
+2026-09-29T00:52:45.599157,physiological,2026-09-29,2,success,
+2026-09-29T00:52:45.741417,eufy_body_composition,2026-09-29,0,success,
+2026-09-29T00:52:45.837179,weekly_training_zones,2026-09-29,1,success,
+2026-09-29T00:52:45.856465,recovery_trends,2026-09-29,1,success,
+2026-09-29T00:52:45.864936,telegram_data,2026-09-29,0,failed,'food'
