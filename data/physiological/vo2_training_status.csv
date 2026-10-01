@@ -368,4 +368,5 @@ date,vo2_max_running,vo2_max_cycling,fitness_age,training_status,training_load_7
 2026-09-27,"{""calendarDate"": ""2026-09-20"", ""vo2MaxPreciseValue"": 51.8, ""vo2MaxValue"": 52.0, ""fitnessAge"": null, ""fitnessAgeDescription"": null, ""maxMetCategory"": 0}",,,,,,,,390.0356,699.2639,127.80975,246.0,574.0,353.0,681.0,109.0,327.0,AEROBIC_HIGH_FOCUS,0.0,0.0
 2026-09-28,"{""calendarDate"": ""2026-09-20"", ""vo2MaxPreciseValue"": 51.8, ""vo2MaxValue"": 52.0, ""fitnessAge"": null, ""fitnessAgeDescription"": null, ""maxMetCategory"": 0}",,,,,,,,390.0356,699.2639,127.80975,246.0,574.0,353.0,681.0,109.0,327.0,AEROBIC_HIGH_FOCUS,0.0,0.0
 2026-09-29,"{""calendarDate"": ""2026-09-29"", ""vo2MaxPreciseValue"": 51.3, ""vo2MaxValue"": 51.0, ""fitnessAge"": null, ""fitnessAgeDescription"": null, ""maxMetCategory"": 0}",,,,,,,,380.9407,699.2639,127.80975,242.0,570.0,358.0,685.0,109.0,327.0,AEROBIC_HIGH_FOCUS,0.0,0.0
-2026-09-30,,,,,,,,,,,,,,,,,,,,
+2026-09-30,"{""calendarDate"": ""2026-09-29"", ""vo2MaxPreciseValue"": 51.3, ""vo2MaxValue"": 51.0, ""fitnessAge"": null, ""fitnessAgeDescription"": null, ""maxMetCategory"": 0}",,,,,,,,354.1041,699.2639,127.80975,242.0,570.0,358.0,685.0,109.0,327.0,AEROBIC_HIGH_FOCUS,0.0,0.0
+2026-10-01,,,,,,,,,,,,,,,,,,,,
