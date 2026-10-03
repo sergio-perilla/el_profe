@@ -2099,3 +2099,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-10-03T00:16:37.964829,weekly_training_zones,2026-10-03,0,success,
 2026-10-03T00:16:37.980155,recovery_trends,2026-10-03,1,success,
 2026-10-03T00:16:37.986640,telegram_data,2026-10-03,0,failed,'food'
+2026-10-03T23:36:58.367122,activities,2026-10-03,0,success,
+2026-10-03T23:37:13.848842,health,2026-10-03,0,success,
+2026-10-03T23:37:20.259815,physiological,2026-10-03,0,success,
+2026-10-03T23:37:20.408154,eufy_body_composition,2026-10-03,0,success,
+2026-10-03T23:37:21.916110,weekly_training_zones,2026-10-03,0,success,
+2026-10-03T23:37:21.936927,recovery_trends,2026-10-03,0,success,
+2026-10-03T23:37:21.943474,telegram_data,2026-10-03,0,failed,'food'
