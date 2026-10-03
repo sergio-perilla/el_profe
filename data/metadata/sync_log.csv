@@ -2092,3 +2092,10 @@ timestamp,data_type,last_sync_date,records_added,status,error_message
 2026-10-02T00:36:13.873213,weekly_training_zones,2026-10-02,0,success,
 2026-10-02T00:36:13.895038,recovery_trends,2026-10-02,1,success,
 2026-10-02T00:36:13.903925,telegram_data,2026-10-02,0,failed,'food'
+2026-10-03T00:16:20.377137,activities,2026-10-03,6,success,
+2026-10-03T00:16:32.218839,health,2026-10-03,1,success,
+2026-10-03T00:16:37.004854,physiological,2026-10-03,1,success,
+2026-10-03T00:16:37.065211,eufy_body_composition,2026-10-03,0,success,
+2026-10-03T00:16:37.964829,weekly_training_zones,2026-10-03,0,success,
+2026-10-03T00:16:37.980155,recovery_trends,2026-10-03,1,success,
+2026-10-03T00:16:37.986640,telegram_data,2026-10-03,0,failed,'food'
